@@ -3,26 +3,94 @@
   font-size: 23px;
   width: 100%;
   margin: 0px;
-  box-shadow:5px 5px 5px grey;
+  box-shadow:5px 5px 5px white;
+  font-family: 'Lexend', sans-serif;
+  background-color: rgb(0, 0, 85);
+  border: white;
 }
 .note
 {
   font-size: 15px;
-  color: black;
+  color: white;
+  font-family: 'Lexend', sans-serif;
 }
 .copy_right_footer {
   position: fixed;
   color: white;
   bottom: 0;
   width: 100%;
-  background-color:grey;
+  background-color: rgb(0, 0, 85);
   line-height: 3;
   text-align: center;
+  font-family: 'Lexend', sans-serif;
 }
 canvas 
 {
   border:5px solid white;
   border-radius:20px;
-  box-shadow:5px 5px 5px grey;
+  box-shadow:5px 5px 5px white;
+}
+
+body
+{
+  font-family: 'Lexend', sans-serif;
+  background-color: rgb(0, 0, 85);
+  color: white;
+}
+
+span
+{
+  font-family: 'Lexend', sans-serif;
+  background-color: rgb(0, 0, 85);
+  color: white;
+}
+
+h1
+{
+  font-family: 'Lexend', sans-serif;
+  background-color: rgb(0, 0, 85);
+  color: white;
+}
+
+h2
+{
+  font-family: 'Lexend', sans-serif;
+  background-color: rgb(0, 0, 85);
+  color: white;
+}
+
+h3
+{
+  font-family: 'Lexend', sans-serif;
+  background-color: rgb(0, 0, 85);
+  color: white;
+}
+
+h4
+{
+  font-family: 'Lexend', sans-serif;
+  background-color: rgb(0, 0, 85);
+  color: white;
+}
+
+h5
+{
+  font-family: 'Lexend', sans-serif;
+  background-color: rgb(0, 0, 85);
+  color: white;
+}
+
+h6
+{
+  font-family: 'Lexend', sans-serif;
+  background-color: rgb(0, 0, 85);
+  color: white;
+}
+
+#Astra
+{
+  font-family: 'Lexend', sans-serif;
+  background-color: rgb(0, 0, 85);
+  color: white;
 }
 
